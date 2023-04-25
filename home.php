@@ -55,6 +55,46 @@
 
 
 
+<!-- footer section starts -->
+
+<section class="footer">
+    <div class="box_container">
+        <div class="box">
+            <h3>quick links</h3>
+            <a href='home.php'><i class="fas fa-angle-right"></i>home</a>
+            <a href='about.php'><i class="fas fa-angle-right"></i>about</a>
+            <a href='package.php'><i class="fas fa-angle-right"></i>package</a>
+            <a href='book.php'><i class="fas fa-angle-right"></i>book</a>
+        </div>
+
+        <div class="box">
+            <h3>Extra links</h3>
+            <a href='#'><i class="fas fa-angle-right"></i>Ask Questions</a>
+            <a href='#'><i class="fas fa-angle-right"></i>About Us</a>
+            <a href='#'><i class="fas fa-angle-right"></i>Privacy Policy</a>
+            <a href='#'><i class="fas fa-angle-right"></i>Terms of Use</a>
+        </div>
+
+        <div class="box">
+            <h3>Contact Info</h3>
+            <a href='#'><i class="fas fa-phone"></i> +123-456-7890 </a>
+            <a href='#'><i class="fas fa-phone"></i> +135-791-2468</a>
+            <a href='#'><i class="fas fa-envelope"></i>abcde@gmail.com</a>
+            <a href='#'><i class="fas fa-map"></i>Tamil Nadu,India - 625006</a>
+        </div>
+
+        <div class="box">
+            <h3>Follow Us</h3>
+            <a href='#'><i class="fab fa-facebook-f"></i> Facebook</a>
+            <a href='#'><i class="fab fa-twitter"></i> Twitter</a>
+            <a href='#'><i class="fab fa-instagram"></i> Instagram</a>
+            <a href='#'><i class="fab fa-linkedin"></i> LinkedIn</a>
+        </div>
+    </div>
+</section>
+
+<!-- footer section ends -->
+
 <!-- swiper js link -->
 <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 

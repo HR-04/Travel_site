@@ -87,11 +87,42 @@ section{
 
 
 
+.footer{
+    background: url("https://th.bing.com/th/id/R.83fed08f57100d82e2f8b7cae794cb6f?rik=w5FwG1t%2foFt2ig&riu=http%3a%2f%2flekvilla.com%2fwp-content%2fuploads%2f2015%2f07%2fBACKGROUND-FOOTER-1.jpg&ehk=qq%2fy6dFiVdOu6zoInnZqj8P5LG%2fJ50Inz6zFKUC2M8k%3d&risl=&pid=ImgRaw&r=0") no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
+.footer .box_container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(2.5rem,1fr));
+    gap:3rem;
+}
 
+.footer .box_container .box h3{
+    color:var(--white);
+    font-size: 2.5rem;
+    padding-bottom:2rem;
+}
 
+.footer .box_container .box a{
+    color:var(--light-white);
+    font-size: 1.5rem;
+    padding-bottom:1rem;
+    display:block;
+}
 
+.footer .box_container .box a i{
+    color:var(--main-color);
+    padding-right: .5rem;
+    transition: .2s linear;
+}
 
+.footer .box_container .box a:hover i{
+    padding-right: 2rem;
+
+}
 
 
 
