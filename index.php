@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Home</title>
 
     <!-- swiper css link -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"/>
@@ -91,7 +91,10 @@
             <a href='#'><i class="fab fa-linkedin"></i> LinkedIn</a>
         </div>
     </div>
+
+    <div class="credit">Created by <span>Kore</span> | all rights reserved!</div>
 </section>
+
 
 <!-- footer section ends -->
 
